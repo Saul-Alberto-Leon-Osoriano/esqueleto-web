@@ -1,3 +1,3 @@
-function MostrarMensaje(mensaje) {
+function mostrarMensaje(mensaje) {
     alert(mensaje)
 }
