@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    padding: 40px;
+}
+
+.titulos {
+    text-align: center;
+    color: red;
+    text-decoration: underline;
+}
+
+.textoinicio { 
+    text-align: center,justify;
+    color: whitesmoke;
+    margin: 15px 50px 30px 50px;
+    letter-spacing: 1.5px;
+    word-spacing: 4px;
+}
+
+article {
+    box-sizing: border-box;
+}
+
+.cajafotografia {
+    box-sizing: border-box;
+    width: 20%;
+    height: 20%;
+    margin: 20px 8px 2% 8px;
+}
+
+#empujearriba {
+    box-sizing: border-box;
+    width: 20%;
+    height: 20%;
+    margin: 20px 8px 2% 20%;
+}
+
+#empujeabajo {
+    box-sizing: border-box;
+    width: 20%;
+    height: 20%;
+    margin: 20px 8px 2% 30%;
+}
+
+h2 {
+    background-color: black;
+    padding: 80px;
+}
+
+.logoproyecto {
+    width: 50%;
+    height: 50%;
+    margin-left: 25%;
+    background-color: black;
+}
+
+a {
+    background-color: black;
+}
